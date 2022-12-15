@@ -49,7 +49,7 @@ const FollowerTabCard = ({ i, el }) => {
         <div className={Style.FollowerTabCard_box_info}>
           <div className={Style.FollowerTabCard_box_info_name}>
             <h4>
-              Mia Khalifa
+              Michael Jordan
               {""}{" "}
               <span>
                 <MdVerified />

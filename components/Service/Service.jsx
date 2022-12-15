@@ -17,12 +17,11 @@ const Service = () => {
                 height={100}
                 />
                 <p className={Style.service_box_item_step}>
-                    <span>Step 1</span>
+                    <span>Download</span>
                 </p>
                 <h3>Filter & Discover</h3>
                 <p>
-                Connect with wallet, discover, buy NTFs, sell your NFTs and earn
-            money
+                Get a tutorial handbook and discover our platform!
                 </p>
             </div>
             <div className={Style.service_box_item}>
@@ -33,11 +32,11 @@ const Service = () => {
                 height={100}
                 />
                 <p className={Style.service_box_item_step}>
-                    <span>Step 9?</span>
+                    <span>Your turn</span>
                 </p>
                 <h3>Access Anywhere</h3>
                 <p>
-                If you are on WC and you want to trade your NFT, go ahead.
+                Trade your NFT remotely. Anywhere. Everywhere.
                 </p>
             </div>
             <div className={Style.service_box_item}>
@@ -48,12 +47,11 @@ const Service = () => {
                 height={100}
                 />
                 <p className={Style.service_box_item_step}>
-                    <span>Step 33</span>
+                    <span>Join us</span>
                 </p>
                 <h3>Connect Wallet</h3>
                 <p>
-                Connect with wallet, discover, buy NTFs, sell your NFTs and earn
-            money
+                Connect your wallet, discover, trade NFTs and earn more!
                 </p>
             </div>
             <div className={Style.service_box_item}>
@@ -64,11 +62,11 @@ const Service = () => {
                 height={100}
                 />
                 <p className={Style.service_box_item_step}>
-                    <span>Step 69</span>
+                    <span>Demo</span>
                 </p>
                 <h3>Start Trading</h3>
                 <p>
-                Do your best to trade and lose so we'll get rich xD
+                Begin your trading journey now!
                 </p>
             </div>
         </div>
